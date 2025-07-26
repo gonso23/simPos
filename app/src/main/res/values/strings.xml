@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simPos</string>
+    <string name="title_activity_sim_gpx">SimGPX</string>
+</resources>
